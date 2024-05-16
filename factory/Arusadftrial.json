@@ -1,0 +1,9 @@
+{
+	"name": "Arusadftrial",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8153265-a6d1-4953-84fd-e8504db133c2",
+		"tenantId": "b5923b0e-5cbd-4302-bcf7-38701fe46c6f"
+	}
+}
